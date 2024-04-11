@@ -1,5 +1,6 @@
 ﻿using SoundScape.Models;
 using System.Text.Json;
+using SoundScape.Filtros;
 //não coloquei o ; no final -> significa que vamos usar esse recurso, só que só dentro do using, mas porque isso?
 //O using já conhecemos, só que em outro contexto, esse tem o contexo de gerenciar o recurso e esse recurso vai ser gerenciado até o final quando a chave fecha, quando fehcar eu vou liberar esse recurso que
 //no caso é o objeto client.
@@ -14,7 +15,7 @@ using (HttpClient client = new HttpClient())
 
         //O deserialize vai fazer o seguinte: pega esse json e converte esse json em um objeto que é manipula´vel no c# e esse processo se chama Desserialização (comum em várias linguagens).
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta);
-        musicas[1998].ExibirDetalhesDaMusica();
+        LinqFilter.FiltraTodososGenerosMusicais(musicas);
     }
     catch (Exception ex)
     {

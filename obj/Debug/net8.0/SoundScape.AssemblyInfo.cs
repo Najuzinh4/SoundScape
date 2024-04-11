@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoundScape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eef902b6a98e548de748d2e5ab67ac9d1a186f18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d0fc991a36ee6875e990445a2ca9e9ad74c0180")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoundScape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoundScape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
