@@ -4,7 +4,7 @@ This is the fourth course in the Alura series, focused on advanced development i
 
 ## Overview
 
-"SoundScape" is a music application designed to provide users with an immersive and personalized listening experience. Developed with C# and based on advanced object-oriented programming concepts, the project represents an evolution from our previous work, "SoundScape 3".
+"SoundScape" is a music application designed to provide users with an immersive and personalized listening experience. Developed with C# and based on advanced object-oriented programming concepts, the project represents an evolution from our previous work, "Screen-Sound".
 
 ## What's New and Improved
 
