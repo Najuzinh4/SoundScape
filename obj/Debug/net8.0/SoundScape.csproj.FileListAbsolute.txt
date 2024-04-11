@@ -1,0 +1,14 @@
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.AssemblyInfoInputs.cache
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.AssemblyInfo.cs
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.csproj.CoreCompileInputs.cache
+C:\Users\ana.gaspar\Desktop\SoundScape\bin\Debug\net8.0\SoundScape.exe
+C:\Users\ana.gaspar\Desktop\SoundScape\bin\Debug\net8.0\SoundScape.deps.json
+C:\Users\ana.gaspar\Desktop\SoundScape\bin\Debug\net8.0\SoundScape.runtimeconfig.json
+C:\Users\ana.gaspar\Desktop\SoundScape\bin\Debug\net8.0\SoundScape.dll
+C:\Users\ana.gaspar\Desktop\SoundScape\bin\Debug\net8.0\SoundScape.pdb
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.dll
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\refint\SoundScape.dll
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.pdb
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\SoundScape.genruntimeconfig.cache
+C:\Users\ana.gaspar\Desktop\SoundScape\obj\Debug\net8.0\ref\SoundScape.dll
