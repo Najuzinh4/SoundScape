@@ -13,6 +13,8 @@ using (HttpClient client = new HttpClient())
     catch (Exception ex)
     {
         Console.WriteLine($"Temos um problema: {ex.Message}");
+
+
     }
     
 }
