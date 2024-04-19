@@ -16,12 +16,13 @@ using (HttpClient client = new HttpClient())
         //O deserialize vai fazer o seguinte: pega esse json e converte esse json em um objeto que é manipula´vel no c# e esse processo se chama Desserialização (comum em várias linguagens).
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
         //LinqFilter.FiltraTodososGenerosMusicais(musicas);
-        LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Ariana Grande");
     }
     catch (Exception ex)
     {
         Console.WriteLine($"Temos um problema: {ex.Message}");
-
 
     }
     
