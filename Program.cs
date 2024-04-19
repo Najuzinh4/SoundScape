@@ -18,10 +18,13 @@ using (HttpClient client = new HttpClient())
         //LinqFilter.FiltraTodososGenerosMusicais(musicas);
         // LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
-        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Ariana Grande");
+        //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Ariana Grande");
+
+        var musicasPreferidasDoDaniel
+
     }
     catch (Exception ex)
-    {
+    {s
         Console.WriteLine($"Temos um problema: {ex.Message}");
 
     }
